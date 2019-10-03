@@ -1,5 +1,4 @@
 # Bindings for the hermes protocol 
-hermes-python>=0.1
+hermes-python>=0.1.29
 
 # More dependency goes here.. 
-urllib
